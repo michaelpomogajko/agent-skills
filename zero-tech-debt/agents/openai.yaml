@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zero Tech Debt"
+  short_description: "Refactor toward the intended final shape"
+  default_prompt: "Use $zero-tech-debt to rework this change from the intended end state."
+policy:
+  allow_implicit_invocation: true
